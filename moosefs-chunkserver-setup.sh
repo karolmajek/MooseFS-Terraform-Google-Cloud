@@ -1,4 +1,3 @@
-sudo su
 apt update
 apt upgrade -y
 
